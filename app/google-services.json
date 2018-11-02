@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1064136552521",
+    "firebase_url": "https://jmtalk-2865b.firebaseio.com",
+    "project_id": "jmtalk-2865b",
+    "storage_bucket": "jmtalk-2865b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064136552521:android:e51774b35683cb3d",
+        "android_client_info": {
+          "package_name": "com.example.ceell.jmtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064136552521-q1fv8rf4h6et1laoclk9le642hc2n0ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ceell.jmtalk",
+            "certificate_hash": "9a14026588fca3c685603db6280246f59ba230e2"
+          }
+        },
+        {
+          "client_id": "1064136552521-sggd19aeqoih4jno5739kicvjdvh3alq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvf5txW2-Imiva1aMpwpAkdSaQYeTZf5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064136552521-sggd19aeqoih4jno5739kicvjdvh3alq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
